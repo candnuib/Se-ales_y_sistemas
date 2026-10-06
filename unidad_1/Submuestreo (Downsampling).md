@@ -1,4 +1,6 @@
-La teoría detrás del Submuestreo (Downsampling)
+La teoría detrás del Submuestreo o escalado tempotal  (Downsampling) 
+
+Se define f_s ($T = 1/f_s$),}.
 
 Cuando haces $y(n) = x(μ n)$ con un entero $\mu > 1$, estás realizando una compresión temporal o diezmado (downsampling).
 
@@ -15,8 +17,14 @@ Ejemplo: tenemos μ = 2.
     
 • Si $n = 2$, $y(2) = x(4)$
 
+x(n)
 
-    
+<img width="578" height="443" alt="image" src="https://github.com/user-attachments/assets/ccec4602-c9a6-4143-99fe-2c48a082a750" />
+
+y(n) = x(2n)  
+
+<img width="590" height="456" alt="image" src="https://github.com/user-attachments/assets/124c1a0a-c24d-4c31-9529-81c5d9b2dac1" />
+
 Las muestras impares de la señal original desaparecen. Se esta tirando a la basura la mitad de la información. La señal se "comprime" porque ocurre el doble de rápido.
 
  • Al descartar muestras, la nueva frecuencia de muestreo cae a la mitad: $f_s' = f_s / 2$.
