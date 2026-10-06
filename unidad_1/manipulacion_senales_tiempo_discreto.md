@@ -26,3 +26,11 @@ TDk [X(n)] = x(n - k)
 
 FD[x(n)] = x(-n)
 
+Señal original: x(n)
+
+<img width="579" height="458" alt="image" src="https://github.com/user-attachments/assets/58942870-c270-4152-b732-7159336014e7" />
+
+Señal refeljada: x(-n)
+
+<img width="584" height="465" alt="image" src="https://github.com/user-attachments/assets/bbe8c0a6-6ecf-41ec-b927-32c2cfa56edb" />
+
