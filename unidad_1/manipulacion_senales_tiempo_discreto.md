@@ -44,7 +44,7 @@ Ejemplo: Sea la señal x(n) con una K = 2
 
 <img width="581" height="437" alt="image" src="https://github.com/user-attachments/assets/f6b52310-9d43-4b7b-92ee-d1a6cee58b60" />
 
-Primero se empezara por FD[x(n)]
+El el primer caso se empezara por FD[x(n)]
 
 <img width="598" height="465" alt="image" src="https://github.com/user-attachments/assets/1234684d-89f2-4306-b349-010891d4db63" />
 
@@ -53,4 +53,12 @@ Despues a el resultado se le aplica un atraso de 2.
 TD2 [FD[x(n)]] = x(n - k); K=2
 
 <img width="596" height="449" alt="image" src="https://github.com/user-attachments/assets/2c79baed-265f-4894-b4eb-66dd025b82ff" />
+
+En el segundo caso se empezara por TD2[x(n)] 
+
+<img width="590" height="449" alt="image" src="https://github.com/user-attachments/assets/dbd892d3-7ceb-4de7-98cb-3d35c5b8def8" />
+
+Despues a el resultado se le aplicara la reflexion FD[TD2[x(n)]]
+
+<img width="617" height="476" alt="image" src="https://github.com/user-attachments/assets/f77f0ad0-d4f8-47f1-9a30-1f3f604904f9" />
 
