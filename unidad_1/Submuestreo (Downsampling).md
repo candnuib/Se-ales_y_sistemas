@@ -24,6 +24,10 @@ Ejemplo: tenemos μ = 2.
     
 • Si $n = 2$, $y(2) = x(4)$
 
+• Si $n = -1$, $y(-1) = x(-2)$
+    
+• Si $n = -2$, $y(-2) = x(-4)$
+
 x(n)
 
 <img width="578" height="443" alt="image" src="https://github.com/user-attachments/assets/ccec4602-c9a6-4143-99fe-2c48a082a750" />
