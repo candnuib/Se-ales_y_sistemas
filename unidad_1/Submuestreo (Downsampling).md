@@ -4,11 +4,19 @@ Cuando haces $y(n) = x(μ n)$ con un entero $\mu > 1$, estás realizando una com
 
 Ejemplo: tenemos $\mu = 2$, la señal es $y(n) = x(2n)$. Esto significa que:
 
+x(n) =Xa(nT)
+
+    μ = 2
+    
+ y(n) = x(2n) = x(2Tn)
+
 • Si $n = 0$, $y(0) = x(0)$
     
 • Si $n = 1$, $y(1) = x(2)$
     
 • Si $n = 2$, $y(2) = x(4)$
+
+
     
 Las muestras impares de la señal original desaparecen. Se esta tirando a la basura la mitad de la información. La señal se "comprime" porque ocurre el doble de rápido.
 
