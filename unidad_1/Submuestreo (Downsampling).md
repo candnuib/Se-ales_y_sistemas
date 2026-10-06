@@ -5,9 +5,8 @@ Cuando haces $y(n) = x(μ n)$ con un entero $\mu > 1$, estás realizando una com
  $\mu = 2$, 
 x(n) =Xa(nT)
 
-    Ejemplo: tenemos μ = 2.
+Ejemplo: tenemos μ = 2.
 
-    
  y(n) = x(2n) = x(2Tn)
 
 • Si $n = 0$, $y(0) = x(0)$
