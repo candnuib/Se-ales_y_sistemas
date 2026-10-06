@@ -1,9 +1,15 @@
 La teoría detrás del Submuestreo (Downsampling)
+
 Cuando haces $y(n) = x(\mu n)$ con un entero $\mu > 1$, estás realizando una compresión temporal o diezmado (downsampling).
+
 Si $\mu = 2$, tu nueva señal es $y(n) = x(2n)$. Esto significa que:
+
     • Si $n = 0$, $y(0) = x(0)$
+    
     • Si $n = 1$, $y(1) = x(2)$
+    
     • Si $n = 2$, $y(2) = x(4)$
+    
 Como ves, las muestras impares de la señal original desaparecen. Literalmente estás tirando a la basura la mitad de la información. La señal se "comprime" porque ocurre el doble de rápido.
 Corrección sobre el tiempo $T$ y la frecuencia:
 Mencionas que equivale a $1/2 T$ en vez de $1/T$. Es exactamente al revés:
