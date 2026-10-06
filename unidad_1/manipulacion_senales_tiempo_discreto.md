@@ -20,3 +20,9 @@ Caso -> k = -2 -> Por lo tanto x (n - (-2)) ->  Adelanto de 2 muestras.
 
 Nota: Solo se puede adelantar si la señal esta almacenada en memoria, en tiempo real no.
 
+TDk [X(n)] = x(n - k)
+
+*   Reflexion. (Folding Displacement)
+
+FD[x(n)] = x(-n)
+
