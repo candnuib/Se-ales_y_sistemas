@@ -1,11 +1,18 @@
 La teoría detrás del Submuestreo o escalado tempotal  (Downsampling) 
 
-Se define fs ($T = 1/F_s$),}.
+Se define fs  
 
-Cuando haces $y(n) = x(μ n)$ con un entero $\mu > 1$, estás realizando una compresión temporal o diezmado (downsampling).
+T = 1 / fs
 
- $\mu = 2$, 
-x(n) =Xa(nT)
+Teorema de Nyquist-Shannon
+
+fs = 2 f + 1
+
+Submuestrear o escalar el tiempo emplica reemplazar ¨n" en una señal por  (μ n) donde μ = entero.
+
+y(n) = x(μ n) 
+
+x(n) = Xa(n T)
 
 Ejemplo: tenemos μ = 2.
 
