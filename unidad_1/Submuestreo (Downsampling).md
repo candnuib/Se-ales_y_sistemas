@@ -1,6 +1,6 @@
 La teoría detrás del Submuestreo o escalado tempotal  (Downsampling) 
 
-Se define f_s ($T = 1/f_s$),}.
+Se define f_s ($T = 1/F_s$),}.
 
 Cuando haces $y(n) = x(μ n)$ con un entero $\mu > 1$, estás realizando una compresión temporal o diezmado (downsampling).
 
