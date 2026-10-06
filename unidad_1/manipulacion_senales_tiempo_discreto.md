@@ -34,3 +34,13 @@ Señal refeljada: x(-n)
 
 <img width="584" height="465" alt="image" src="https://github.com/user-attachments/assets/bbe8c0a6-6ecf-41ec-b927-32c2cfa56edb" />
 
+DESPLAZAMIENTO EN TIEMPO Y REFLEXION TEMPORAL.
+
+No son conmutativas
+
+TDk[FD[x(n)]] ≠ FD[TDk[x(n)]]
+
+Ejemplo: Sea la señal x(n) con una K = 2
+
+<img width="581" height="437" alt="image" src="https://github.com/user-attachments/assets/f6b52310-9d43-4b7b-92ee-d1a6cee58b60" />
+
