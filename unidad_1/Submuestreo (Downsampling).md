@@ -1,5 +1,5 @@
 La teoría detrás del Submuestreo (Downsampling)
-Cuando haces y(n) = x(μ n) con un entero mu > 1, estás realizando una compresión temporal o diezmado (downsampling).
+Cuando haces $y(n) = x(\mu n)$ con un entero $\mu > 1$, estás realizando una compresión temporal o diezmado (downsampling).
 Si $\mu = 2$, tu nueva señal es $y(n) = x(2n)$. Esto significa que:
     • Si $n = 0$, $y(0) = x(0)$
     • Si $n = 1$, $y(1) = x(2)$
